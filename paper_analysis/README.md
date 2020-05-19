@@ -11,3 +11,8 @@ Outra coisa que reparei na análise destes 3 papers é que as SVM têm uma perfo
 Este [Paper 4](https://ieeexplore.ieee.org/document/8858529) aplica data augmentation a imagens para o estudar o reconhecimento de expressões faciais. Conseguimos constatar que data augmentation melhorou bastante os resultados finais e normalmente consegue-se bons resultados quando conjugada com NN. Neste caso os autore usaram a [libraria Keras](https://machinelearningmastery.com/how-to-configure-image-data-augmentation-when-training-deep-learning-neural-networks/) para realizar a data augmentation e também poderiamos usar no nosso projeto. 
 
 A estrutura deste paper é muito boa, apresentando related work e descrevendo de forma correta a arquitetura da NN por isso podiamo-nos basear nesta estrutura para construir o nosso paper.
+
+
+## Aditional References
+
+[Image preprocessing](https://towardsdatascience.com/image-pre-processing-c1aec0be3edf)
