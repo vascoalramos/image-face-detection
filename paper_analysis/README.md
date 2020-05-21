@@ -16,3 +16,8 @@ A estrutura deste paper é muito boa, apresentando related work e descrevendo de
 ## Aditional References
 
 [Image preprocessing](https://towardsdatascience.com/image-pre-processing-c1aec0be3edf)
+[Histogram equalization](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_histograms/py_histogram_equalization/py_histogram_equalization.html)
+[SVM with HOG](http://mehmetsoydas.com/2017/05/27/real-time-face-detection-recognition-hog-features-svm/)
+[HOG example](https://scikit-image.org/docs/dev/auto_examples/features_detection/plot_hog.html#sphx-glr-auto-examples-features-detection-plot-hog-py)
+[Kernel example SVM with HOG](https://www.kaggle.com/manikg/training-svm-classifier-with-hog-features/data)
+[Face recognition](https://scikit-learn.org/stable/auto_examples/applications/plot_face_recognition.html)
