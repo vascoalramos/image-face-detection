@@ -20,4 +20,5 @@ A estrutura deste paper é muito boa, apresentando related work e descrevendo de
 [SVM with HOG](http://mehmetsoydas.com/2017/05/27/real-time-face-detection-recognition-hog-features-svm/)
 [HOG example](https://scikit-image.org/docs/dev/auto_examples/features_detection/plot_hog.html#sphx-glr-auto-examples-features-detection-plot-hog-py)
 [Kernel example SVM with HOG](https://www.kaggle.com/manikg/training-svm-classifier-with-hog-features/data)
-[Face recognition](https://scikit-learn.org/stable/auto_examples/applications/plot_face_recognition.html)
+[Face recognition](https://scikit-learn.org/stable/auto_examples/applications/plot_face_recognition.html)  
+[SVM](https://scikit-learn.org/stable/modules/cross_validation.html)
