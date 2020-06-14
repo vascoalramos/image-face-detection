@@ -1,6 +1,8 @@
 # TAA_project_2
 Repository home to the source code of the project number 2 done in Machine Learning.
-> **University of Aveiro, 2019/2020**<br/>
-  Authors:<br/>
-  João Miguel Nunes de Medeiros e Vasconcelos<br/>
-  Vasco Ramos<br/>
+
+## Author
+-   **Vasco Ramos:** [vascoalramos](https://github.com/vascoalramos)
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
