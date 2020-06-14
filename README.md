@@ -1,7 +1,8 @@
 # TAA_project_2
 Repository home to the source code of the project number 2 done in Machine Learning.
 
-## Author
+## Authors
+-   **João Vasconcelos:** [jmnmv12](https://github.com/jmnmv12)
 -   **Vasco Ramos:** [vascoalramos](https://github.com/vascoalramos)
 
 ## License
