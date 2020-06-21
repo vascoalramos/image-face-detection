@@ -1,6 +1,6 @@
 # Image Face Detection
 
-Repository home to the source code of the second project done in one of our classes: [Machine Learning Topics](https://www.ua.pt/en/uc/12832). Its purpose is to implement and compare the results of face detecion based in images with SVM and Neural Networks.
+Repository home to the source code of the second project done in one of our classes: [Machine Learning Topics](https://www.ua.pt/en/uc/12832). Its purpose is to implement and compare the results of face detecion based on images with SVM and Neural Networks.
 
 ## Authors
 
